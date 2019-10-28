@@ -23,7 +23,7 @@ In the src folder have been added two more fils:
 * obstacle.h
 * obstacle.cpp
 
-#Maching Project-Rubric
+# Maching Project-Rubric
 * A variety of control structures are used in the project. Or the project code is clearly organized into functions.
     * File: obstacle.h; obstacle.cpp
     
